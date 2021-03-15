@@ -4,3 +4,8 @@
    border: 1px solid black;
 }
 
+
+.col-6.nested > div{
+   background-color: #f18180;
+   border: 1px solid white;
+}
